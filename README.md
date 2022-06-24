@@ -49,4 +49,5 @@
 }
 ```
 
-[Back to page Course_V_Ksendzov](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/)
+[Back to page Course_V_Ksendzov](https://yuliakondratsiuk.github.io/Course_V_Ksendzov/) | [Go to repository JSON](https://github.com/yuliakondratsiuk/JSON)
+
